@@ -4,10 +4,6 @@
 
 package com.mycompany.ejercicio7;
 
-/**
- *
- * @author Dell
- */
 public class Ejercicio7 {
 
     public static void main(String[] args) {
